@@ -1,7 +1,7 @@
-## UAV_2024
+# UAV_2024
 Radar data of UAVs Spring/Summer 2024
 
-# Dataset
+## Dataset
 For the purpose of this article, radar data were collected
 on a variety of UAVs using the TI AWR2243 single-chip
 77- to 81-GHz radar. This FMCW radar was operated with
@@ -50,12 +50,13 @@ weather was hotter with a temperature around 33◦ C and a
 similar wind speed as the other data collection of no larger
 than 8 kph.
 
-# Download Dataset
+## Download Dataset
+[UAV Dataset](https://example.com)
 
-# Cite as
+## Cite As
 S. Kearney and S. Z. Gurbuz, "Physics-Guided Deep Neural Networks for Radar-Based UAV Recognition in Different Environments With No Prior In Situ Data," in IEEE Transactions on Aerospace and Electronic Systems, vol. 62, pp. 9875-9891, 2026, doi: 10.1109/TAES.2026.3685229.
 
-# Abstract
+## Abstract
 Classifying uncrewed aerial vehicle (UAV) radar micro-Doppler
 signatures with deep neural networks (DNNs) suffers a degradation
 in performance when there is a difference in the distribution of training
